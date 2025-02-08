@@ -1,0 +1,29 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+font-size: 25px;
+background-color: #93e6f4;
+}
+ul{
+    color:blueviolet
+}
+#chatbot {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+.portfolio-gallery {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+.portfolio-item {
+    width: 250px;
+    text-align: center;
+}
+.portfolio-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
